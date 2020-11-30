@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../Code/Vectori"
+		},
+		{
+			"path": "../../../Code/matrici"
+		},
+		{
+			"path": "../../../Code/Tiru"
+		},
+		{
+			"path": "../../../Code/lab pointeri"
+		},
+		{
+			"path": "../../../Code/test"
+		},
+		{
+			"path": "../../../Code/pointeri"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu"
+}
